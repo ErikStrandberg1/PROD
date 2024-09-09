@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/eriks/Documents/GitHub/PROD/MyProject/Content/Blueprints/Interfaces/BPI_Overlapping.uasset",
+				"C:/Users/eriks/Documents/GitHub/PROD/MyProject/Content/Blueprints/Actor_Bps/BP_TriggerBox.uasset",
+				"C:/Users/eriks/Documents/GitHub/PROD/MyProject/Content/Blueprints/ENUM_Directions.uasset",
+				"C:/Users/eriks/Documents/GitHub/PROD/MyProject/Content/Blueprints/ENUM_MovementOptions.uasset",
+				"C:/Users/eriks/Documents/GitHub/PROD/MyProject/Content/Characters/Charcter/Player.uasset",
 				"C:/Users/erst1916/Documents/Unreal Projects/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
 				"C:/Users/erst1916/Documents/Unreal Projects/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/erst1916/Documents/Unreal Projects/MyProject/Content/Characters/Player.uasset",
